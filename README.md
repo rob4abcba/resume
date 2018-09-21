@@ -40,14 +40,14 @@
 
 ## Projects
 ### [Data Structures & Algorithms](https://github.com/awkonecki/CodingProjects)
-- practice of foundamental data structures and understanding
-- practice of coding questions
-- practice of Java / C++ language specifics
+- the practice of fundamental data structures and understanding
+- the practice of coding questions
+- the practice of Java / C++ language specifics
 
 ### [Popular Movies](https://github.com/awkonecki/popular-movies-stage2)
 - Android Application developed in Java
-- Queries web service API Endpoint to obtain list of movies for both popular and top rated to present to the user.
-- User can select individual movies by their movie poster to see movie specific details.
+- Queries web service API Endpoint to obtain a list of movies for both popular and top rated to present to the user.
+- A user can select individual movies by their movie poster to see movie specific details.
 - Implemented persistent storage, user interface callbacks, threading resources.
 
 ## Experience
@@ -63,7 +63,7 @@
 
 #### Description
 - Led and implemented product life-cycle definition and requirements for ISO26262 certification.
-- Identified C++ software bugs in partner supplied DDS security plugin.  Provided local hot fixes and created public [issue](https://github.com/eProsima/Fast-RTPS/issues/181) for acceptance in the public.
+- Identified C++ software bugs in partner supplied DDS security plugin.  Provided local hotfixes and created a public [issue](https://github.com/eProsima/Fast-RTPS/issues/181) for merge request acceptance.
 - Developed security definitions for product platform and led in discussions on security and safety with external partners.
 
 ### [Faraday Future](https://www.ff.com/)
@@ -79,7 +79,7 @@
 #### Description
 - Analyzed, documented, and presented security attack vectors for the first vehicle platform (DF91).
 - Performed code reviews and modifications for bootloader firmware (C/C++) for the vehicle body gateway unit.
-- Developed protype firmware in C that was responsible for managing keys within the storage area of memory.
+- Developed prototype firmware in C that was responsible for managing keys within the storage area of memory.
 - Developed Python scripts to aid in defining cryptographic key examples and procedures for internal and external customers.
 
 ### [Sandia National Laboratory](https://www.sandia.gov/)
@@ -95,8 +95,8 @@
 #### Description
 - Led multiple teams with the largest consisting of four software and four hardware engineers to implement tests, perform tests, and build test harnesses for external customers.
 - Developed test automation tools in C/C++/Labview for multiple programs.  Automation led to turn around times of less than a week for testing of new PCBs, leading to quicker system integration testing and overall reduction of false positive rates.
-- Implemented C/assembly software for communication interfaces (CAN, 1554, Ethernet) for baremetal SOCs.
-- Provide critical debugging and root cause analysis for multiple programs during quality assurance and platform launches.  This led to in the field mitigation of defects of the system, allowing the platforms to operate.
+- Implemented C/assembly software for communication interfaces (CAN, 1554, Ethernet) for bare-metal SOCs.
+- Provide critical debugging and root cause analysis for multiple programs during quality assurance and platform launches.  Provided in the field mitigation of defects of the system, allowing the platforms to operate.
 
 ## Education
 ### Carnegie Mellon University
@@ -107,9 +107,9 @@
 - August 2011 - December 2012
 
 #### Description
-- course work was split between security (focus on software) and embedded systems.
+- coursework was split between security (focus on software) and embedded systems.
 
-##### Embeded
+##### Embedded
 - Bootloader / Operating System shell development for ARM SOC.
 - Memory Allocator, network proxy development
 - Embedded GPS / GSM location monitoring system
@@ -117,7 +117,7 @@
 ##### Security
 - Basic overview of cryptography techniques and mechanisms
 - Secure software design and exploitation
-- Support of static / dynamic analysis for code for secure software design.
+- Support of static/dynamic analysis of application code for secure software design.
 
 ### University of New Mexico
 #### Degree
@@ -128,7 +128,7 @@
 - Summer 2007 - Decemeber 2010
 
 #### Description
-- course work focused on traditional EE material in addition to computer architecture.
+- coursework focused on traditional EE material in addition to computer architecture.
 
 ## Interests
 ### [Android Developer Nanodegree](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801)
