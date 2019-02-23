@@ -17,56 +17,21 @@
 
 ## Skills
 ### Programming Languages
-- Java
 - Javascript
 - Python
-
-### Development Tools
-- Android Studio
-- Sublime Text
-- Git
-
-### Frameworks
-- Android
+- Java
 
 ## Projects
-### [Restaurant Reviews App](https://github.com/rob4abcba/CodingProjects)
-- Web Application developed in JavaScript
-- Stage1: Get a MapBox API key. Get the map on the screen. Convert the provided site to use a responsive design. Implement accessibility features in the site HTML. Add a ServiceWorker script to cache requests to all of the site’s assets (so that any page that has been visited by a user will be accessible when the user is offline).
-- the practice of coding questions
-- the practice of Java / C++ language specifics
-
-### [StudyMandarin](https://github.com/rob4abcba/StudyMandarin)
-- Android Application developed in Java
-- Goal is to help users study for their chosen set of Mandarin vocabulary tailored to their own personal needs/interest.
-- Eventually will query web service API Endpoint to obtain lists of vocabulary for popular Mandarin songs, dramas, and/or movies.
-- The user will be able to select which popular Mandarin songs, dramas, and/or movies to study.
-- Eventually will implement persistent storage.
+### [Restaurant Reviews App]
+- Developed a Progresssive Web Application (PWA) as part of my Mobile Web Specialist (MWS) Nanodegree that I earned after receiving a scholarship from Udacity and Google as part of their competitive "Grow With Google" competition/scholarship.
+- Stage1: Used MapBox API to display a map of restaurants from different categories/neighborhoods. Converted the site to a responsive design. Implemented accessibility features in the site HTML. Added a ServiceWorker script to cache requests to all of the site’s assets (so that any page visited by a user will be accessible when the user is offline).
+- Stage2: Upgraded the web app to work with server data instead of local memory. Used IndexedDB to cache JSON responses to maintain offline operability with the development server. Updated the service worker to store the JSON received by requests using the IndexedDB API.  Met the minimum performance requirements.  
+- Stage3: Added a form to allow users to create their own reviews. Add functionality to defer updates until the user is connected.
 
 ## Experience
-### [Century 21 MM](https://www.c21mm.com/)
+### [c21mm]
 #### Position
-- e-PRO
+- Independent Consultant, e-PRO
 
 #### Location
 - Cupertino, CA
-
-
-## Education
-### University of California Los Angeles (UCLA)
-#### Degree
-- M.S. Electrical Engineering
-
-
-### Rensselaer Polytechnic Institute (RPI)
-#### Degree
-- B.S. Electrical Engineering
-
-
-## Interests
-### [Mobile Web Specialist Nanodegree](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024)
-- Recipient of a Grow with Google Scholarship
-
-### Android Development
-
-
