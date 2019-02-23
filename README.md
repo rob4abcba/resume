@@ -32,7 +32,7 @@
 ## Projects
 ### [Restaurant Reviews App](https://github.com/rob4abcba/CodingProjects)
 - Web Application developed in JavaScript
-- the practice of fundamental data structures and understanding
+- Stage1: Get a MapBox API key. Get the map on the screen. Convert the provided site to use a responsive design. Implement accessibility features in the site HTML. Add a ServiceWorker script to cache requests to all of the site’s assets (so that any page that has been visited by a user will be accessible when the user is offline).
 - the practice of coding questions
 - the practice of Java / C++ language specifics
 
